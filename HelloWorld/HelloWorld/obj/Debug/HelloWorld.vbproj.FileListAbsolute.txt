@@ -9,3 +9,14 @@ c:\users\safari.jones\documents\visual studio 2015\Projects\HelloWorld\HelloWorl
 c:\users\safari.jones\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\safari.jones\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
 c:\users\safari.jones\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\safari.jones\Desktop\GitKraken\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
